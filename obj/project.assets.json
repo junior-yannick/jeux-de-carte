@@ -8,34 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tchuilem\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\agokeng\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\Jambo\\Jambo.csproj",
+      "projectUniqueName": "C:\\Users\\agokeng\\OneDrive\\Bureau\\Jambo\\jambo\\Jambo.csproj",
       "projectName": "Jambo",
-      "projectPath": "X:\\Jambo\\Jambo.csproj",
-      "packagesPath": "C:\\Users\\tchuilem\\.nuget\\packages\\",
-      "outputPath": "X:\\Jambo\\obj\\",
+      "projectPath": "C:\\Users\\agokeng\\OneDrive\\Bureau\\Jambo\\jambo\\Jambo.csproj",
+      "packagesPath": "C:\\Users\\agokeng\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\agokeng\\OneDrive\\Bureau\\Jambo\\jambo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\tchuilem\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\agokeng\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -74,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
