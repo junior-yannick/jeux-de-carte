@@ -35,6 +35,6 @@ public class Program
         jeuDePeche.DemarrerJeu(8, paireDeCartes);
 
         // Afficher la fin du programme
-        Console.WriteLine("La partie est terminée !");
+        Console.WriteLine("************************** La partie est terminée ! ******************************");
     }
 }
