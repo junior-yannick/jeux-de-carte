@@ -1,0 +1,14 @@
+X:\Jambo\bin\Debug\net8.0\Jambo.exe
+X:\Jambo\bin\Debug\net8.0\Jambo.deps.json
+X:\Jambo\bin\Debug\net8.0\Jambo.runtimeconfig.json
+X:\Jambo\bin\Debug\net8.0\Jambo.dll
+X:\Jambo\bin\Debug\net8.0\Jambo.pdb
+X:\Jambo\obj\Debug\net8.0\Jambo.GeneratedMSBuildEditorConfig.editorconfig
+X:\Jambo\obj\Debug\net8.0\Jambo.AssemblyInfoInputs.cache
+X:\Jambo\obj\Debug\net8.0\Jambo.AssemblyInfo.cs
+X:\Jambo\obj\Debug\net8.0\Jambo.csproj.CoreCompileInputs.cache
+X:\Jambo\obj\Debug\net8.0\Jambo.dll
+X:\Jambo\obj\Debug\net8.0\refint\Jambo.dll
+X:\Jambo\obj\Debug\net8.0\Jambo.pdb
+X:\Jambo\obj\Debug\net8.0\Jambo.genruntimeconfig.cache
+X:\Jambo\obj\Debug\net8.0\ref\Jambo.dll
