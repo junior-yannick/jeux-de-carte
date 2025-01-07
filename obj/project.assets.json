@@ -8,26 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tchuilem\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Mac Roy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\Jambo\\Jambo.csproj",
+      "projectUniqueName": "C:\\Users\\Mac Roy\\Documents\\jambo\\Jambo.csproj",
       "projectName": "Jambo",
-      "projectPath": "X:\\Jambo\\Jambo.csproj",
-      "packagesPath": "C:\\Users\\tchuilem\\.nuget\\packages\\",
-      "outputPath": "X:\\Jambo\\obj\\",
+      "projectPath": "C:\\Users\\Mac Roy\\Documents\\jambo\\Jambo.csproj",
+      "packagesPath": "C:\\Users\\Mac Roy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mac Roy\\Documents\\jambo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\tchuilem\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Mac Roy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -35,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

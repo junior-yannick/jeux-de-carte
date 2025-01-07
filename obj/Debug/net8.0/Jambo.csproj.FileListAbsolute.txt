@@ -12,3 +12,17 @@ X:\Jambo\obj\Debug\net8.0\refint\Jambo.dll
 X:\Jambo\obj\Debug\net8.0\Jambo.pdb
 X:\Jambo\obj\Debug\net8.0\Jambo.genruntimeconfig.cache
 X:\Jambo\obj\Debug\net8.0\ref\Jambo.dll
+C:\Users\Mac Roy\Documents\jambo\bin\Debug\net8.0\Jambo.exe
+C:\Users\Mac Roy\Documents\jambo\bin\Debug\net8.0\Jambo.deps.json
+C:\Users\Mac Roy\Documents\jambo\bin\Debug\net8.0\Jambo.runtimeconfig.json
+C:\Users\Mac Roy\Documents\jambo\bin\Debug\net8.0\Jambo.dll
+C:\Users\Mac Roy\Documents\jambo\bin\Debug\net8.0\Jambo.pdb
+C:\Users\Mac Roy\Documents\jambo\obj\Debug\net8.0\Jambo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mac Roy\Documents\jambo\obj\Debug\net8.0\Jambo.AssemblyInfoInputs.cache
+C:\Users\Mac Roy\Documents\jambo\obj\Debug\net8.0\Jambo.AssemblyInfo.cs
+C:\Users\Mac Roy\Documents\jambo\obj\Debug\net8.0\Jambo.csproj.CoreCompileInputs.cache
+C:\Users\Mac Roy\Documents\jambo\obj\Debug\net8.0\Jambo.dll
+C:\Users\Mac Roy\Documents\jambo\obj\Debug\net8.0\refint\Jambo.dll
+C:\Users\Mac Roy\Documents\jambo\obj\Debug\net8.0\Jambo.pdb
+C:\Users\Mac Roy\Documents\jambo\obj\Debug\net8.0\Jambo.genruntimeconfig.cache
+C:\Users\Mac Roy\Documents\jambo\obj\Debug\net8.0\ref\Jambo.dll
