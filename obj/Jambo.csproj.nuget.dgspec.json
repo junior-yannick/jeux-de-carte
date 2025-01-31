@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mac Roy\\Documents\\jambo\\Jambo.csproj": {}
+    "C:\\Users\\agokeng\\OneDrive\\Bureau\\jambo\\Jambo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mac Roy\\Documents\\jambo\\Jambo.csproj": {
+    "C:\\Users\\agokeng\\OneDrive\\Bureau\\jambo\\Jambo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mac Roy\\Documents\\jambo\\Jambo.csproj",
+        "projectUniqueName": "C:\\Users\\agokeng\\OneDrive\\Bureau\\jambo\\Jambo.csproj",
         "projectName": "Jambo",
-        "projectPath": "C:\\Users\\Mac Roy\\Documents\\jambo\\Jambo.csproj",
-        "packagesPath": "C:\\Users\\Mac Roy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mac Roy\\Documents\\jambo\\obj\\",
+        "projectPath": "C:\\Users\\agokeng\\OneDrive\\Bureau\\jambo\\Jambo.csproj",
+        "packagesPath": "C:\\Users\\agokeng\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agokeng\\OneDrive\\Bureau\\jambo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mac Roy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\agokeng\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

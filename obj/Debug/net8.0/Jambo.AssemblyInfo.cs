@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jambo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0741cea3a1d831e4c582ccca5be98ba028212e75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a9dedf43905a670b345e651ebdd26f520410af9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jambo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jambo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

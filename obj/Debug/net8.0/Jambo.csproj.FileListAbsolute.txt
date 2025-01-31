@@ -26,3 +26,31 @@ C:\Users\Mac Roy\Documents\jambo\obj\Debug\net8.0\refint\Jambo.dll
 C:\Users\Mac Roy\Documents\jambo\obj\Debug\net8.0\Jambo.pdb
 C:\Users\Mac Roy\Documents\jambo\obj\Debug\net8.0\Jambo.genruntimeconfig.cache
 C:\Users\Mac Roy\Documents\jambo\obj\Debug\net8.0\ref\Jambo.dll
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\bin\Debug\net8.0\Jambo.exe
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\bin\Debug\net8.0\Jambo.deps.json
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\bin\Debug\net8.0\Jambo.runtimeconfig.json
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\bin\Debug\net8.0\Jambo.dll
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\bin\Debug\net8.0\Jambo.pdb
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\obj\Debug\net8.0\Jambo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\obj\Debug\net8.0\Jambo.AssemblyInfoInputs.cache
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\obj\Debug\net8.0\Jambo.AssemblyInfo.cs
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\obj\Debug\net8.0\Jambo.csproj.CoreCompileInputs.cache
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\obj\Debug\net8.0\Jambo.dll
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\obj\Debug\net8.0\refint\Jambo.dll
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\obj\Debug\net8.0\Jambo.pdb
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\obj\Debug\net8.0\Jambo.genruntimeconfig.cache
+C:\Users\agokeng\OneDrive\Bureau\carte\jambo\obj\Debug\net8.0\ref\Jambo.dll
+C:\Users\agokeng\OneDrive\Bureau\jambo\bin\Debug\net8.0\Jambo.exe
+C:\Users\agokeng\OneDrive\Bureau\jambo\bin\Debug\net8.0\Jambo.deps.json
+C:\Users\agokeng\OneDrive\Bureau\jambo\bin\Debug\net8.0\Jambo.runtimeconfig.json
+C:\Users\agokeng\OneDrive\Bureau\jambo\bin\Debug\net8.0\Jambo.dll
+C:\Users\agokeng\OneDrive\Bureau\jambo\bin\Debug\net8.0\Jambo.pdb
+C:\Users\agokeng\OneDrive\Bureau\jambo\obj\Debug\net8.0\Jambo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agokeng\OneDrive\Bureau\jambo\obj\Debug\net8.0\Jambo.AssemblyInfoInputs.cache
+C:\Users\agokeng\OneDrive\Bureau\jambo\obj\Debug\net8.0\Jambo.AssemblyInfo.cs
+C:\Users\agokeng\OneDrive\Bureau\jambo\obj\Debug\net8.0\Jambo.csproj.CoreCompileInputs.cache
+C:\Users\agokeng\OneDrive\Bureau\jambo\obj\Debug\net8.0\Jambo.dll
+C:\Users\agokeng\OneDrive\Bureau\jambo\obj\Debug\net8.0\refint\Jambo.dll
+C:\Users\agokeng\OneDrive\Bureau\jambo\obj\Debug\net8.0\Jambo.pdb
+C:\Users\agokeng\OneDrive\Bureau\jambo\obj\Debug\net8.0\Jambo.genruntimeconfig.cache
+C:\Users\agokeng\OneDrive\Bureau\jambo\obj\Debug\net8.0\ref\Jambo.dll
